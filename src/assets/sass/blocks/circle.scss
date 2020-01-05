@@ -1,0 +1,33 @@
+.circle {
+    display: flex;
+    margin-top: 387px;
+    margin-left: 188px;
+    position: relative;
+}
+
+.load_shape {
+    position: absolute;
+
+    width: 230px;
+    height: 271px;
+
+    z-index: 2;
+}
+
+.white_shape {
+    position: absolute;
+
+    width: 272px;
+    height: 271px;
+}
+
+.percent_level {
+    position: absolute;
+    top: 120px;
+    left: 75px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    line-height: 27px;
+    font-weight: 400;
+    color: #ffffff;
+}

@@ -1,0 +1,24 @@
+.button {
+    margin-top: 500px;
+    margin-left: 77px;
+
+    width: 486px;
+    height: 91px;
+
+    border-radius: 10px;
+    border: 0;
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    line-height: 27px;
+    font-weight: 400;
+    color: #ffffff;
+
+    background-color: #13eaa2;
+
+    &:hover {
+        background-color: #0c845c;
+        cursor: pointer;
+    }
+
+}
