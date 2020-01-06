@@ -19,6 +19,7 @@
     &:hover {
         background-color: #0c845c;
         cursor: pointer;
+        transition: background-color .1s linear;
     }
 
 }

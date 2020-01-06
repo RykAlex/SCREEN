@@ -1507,4 +1507,6 @@ body {
 .button:hover {
     background-color: #0c845c;
     cursor: pointer;
+    -webkit-transition: background-color .1s linear;
+    transition: background-color .1s linear;
 }
